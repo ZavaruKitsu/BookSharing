@@ -1,0 +1,5 @@
+# PHP Storm folder
+.idea/*
+
+# Book's images
+Engine/Templates/MaterialDesign/img/*
